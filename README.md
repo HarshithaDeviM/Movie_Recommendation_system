@@ -1,6 +1,6 @@
 # Movie_Recommendation_system
 
-## Overview
+### This is task 2 from BharatIntern 
 
 The Movie Recommendation System is an application designed to provide personalized movie recommendations based on user preferences. It utilizes collaborative filtering to analyze user ratings and suggest movies that similar users have enjoyed.
 
